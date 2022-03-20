@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/nexckycort/lambda-html-to-pdf-nodejs#readme",
   "devDependencies": {
-    "@tsconfig/node16": "^1.0.2",
+    "@tsconfig/node14": "^1.0.1",
     "@types/node": "^17.0.21",
     "archiver": "^5.3.0",
     "fs-extra": "^10.0.1",
